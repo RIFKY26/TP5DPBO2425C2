@@ -92,7 +92,7 @@ Aplikasi ini adalah sistem manajemen data produk buku yang mengimplementasikan f
         - Menekan tombol "Cancel" akan memanggil method clearForm().
         - Method ini akan mengosongkan semua JTextField, mengembalikan JComboBox dan JSlider ke posisi default, menyembunyikan tombol "Delete", dan mengubah teks tombol kembali menjadi "Add".
     
-## Dokumentasi
+# Dokumentasi
 
 ### manjalankan CRUD
 ![bandicam 2025-10-16 23-19-27-250](https://github.com/user-attachments/assets/6dbee737-56d9-4fa8-afcc-4f582336c1eb)
@@ -105,6 +105,15 @@ Aplikasi ini adalah sistem manajemen data produk buku yang mengimplementasikan f
 
 ### Setelah dihapus
 <img width="778" height="264" alt="image" src="https://github.com/user-attachments/assets/d9671a57-855d-4a1c-bcdf-0caf6112dcc5" />
+
+## Error
+
+### Input Error Id yang sama
+<img width="1303" height="900" alt="image" src="https://github.com/user-attachments/assets/1c2293a3-b36b-43c7-aca5-11e8c6126d43" />
+
+### Input Error kolom kosong
+<img width="1262" height="968" alt="Cuplikan layar 2025-10-17 203557" src="https://github.com/user-attachments/assets/a31f27f3-ef70-46c1-b355-5c01378da884" />
+
 
 
 
